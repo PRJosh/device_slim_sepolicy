@@ -5,3 +5,5 @@ lineageperformance                        u:object_r:lineage_performance_service
 lineagestyle                              u:object_r:lineage_style_service:s0
 lineageweather                            u:object_r:lineage_weather_service:s0
 profile                                   u:object_r:lineage_profile_service:s0
+# Slim services
+slimactions                               u:object_r:slim_actions_service:s0
